@@ -1,3 +1,6 @@
 Compiler_guide.zip filter=lfs diff=lfs merge=lfs -text
 StandardProject.rar filter=lfs diff=lfs merge=lfs -text
 Learning.rar filter=lfs diff=lfs merge=lfs -text
+LLVM_AI(Guide).zip filter=lfs diff=lfs merge=lfs -text
+Cache.rar filter=lfs diff=lfs merge=lfs -text
+WebProject.rar filter=lfs diff=lfs merge=lfs -text
